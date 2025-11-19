@@ -3,6 +3,7 @@
 A lightweight end-to-end project that scrapes historical articles, generates AI summaries, converts them into vector embeddings, stores them in MongoDB Atlas, and provides a FastAPI + frontend UI to perform semantic search over 100+ history documents.
 
 🚀 Features
+
 ✔️ Web Scraping
 
 Extracts 100+ history articles from a target website.
