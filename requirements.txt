@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+pandas
+python-dotenv
+pymongo
+dnspython
+certifi
+openai
+tqdm
+selenium
+webdriver-manager

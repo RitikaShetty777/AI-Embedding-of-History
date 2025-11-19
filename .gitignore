@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+*.dll
+*.so
+*.zip
+.env
+.DS_Store
+node_modules/
+dist/
